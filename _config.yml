@@ -12,7 +12,7 @@ title                    : "Zahaib Akhtar"
 title_separator          : "-"
 name                     : &name "Zahaib Akhtar"
 description              : &description ""
-url                      : https://zahaib.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://zahaibakhtar.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zahaib/zahaib.github.io"
 
