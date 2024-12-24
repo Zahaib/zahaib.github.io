@@ -28,12 +28,16 @@ News
   <table>
     <tbody>
       <tr>
+        <td><span class="red-text">3/30/2024</span></td>
+        <td>I'll be serving on the <a href="https://www.usenix.org/conference/nsdi25">NSDI 2025 TPC.</a></td>
+      </tr>
+      <tr>
         <td><span class="red-text">3/28/2024</span></td>
-        <td>I'll be serving on the  <a href="https://conferences.sigcomm.org/sigcomm/2024/workshop/ems/">EMS Workshop TPC</a>, collocoated with SIGCOMM 2024</td>
+        <td>I'll be serving on the  <a href="https://conferences.sigcomm.org/sigcomm/2024/workshop/ems/">EMS Workshop TPC</a>, collocoated with SIGCOMM 2024.</td>
       </tr>
       <tr>
         <td><span class="red-text">10/28/2023</span></td>
-        <td>Gave an invited talk at UC Santa Cruz on topics in Internet Video Research, I was hosted by <a href="https://inrg.engineering.ucsc.edu/people/">Prof. Katia Obraczka</a></td>
+        <td>Gave an invited talk at UC Santa Cruz on topics in Internet Video Research, I was hosted by <a href="https://inrg.engineering.ucsc.edu/people/">Prof. Katia Obraczka.</a></td>
       </tr>
       <tr>
         <td><span class="red-text">9/27/2023</span></td>
