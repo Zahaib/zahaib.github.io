@@ -21,6 +21,65 @@ Education
 
 Work experience
 ======
+<div>
+  <div class="custom-counter" id="counter">Loading...</div>
+
+  <script>
+    (function () {
+      const counterElement = document.getElementById("counter");
+
+      // Start date: September 3rd, 2019
+      const startDate = new Date(2019, 8, 3); // Month is 0-indexed (8 = September)
+
+      function calculateElapsedTime() {
+        const now = new Date();
+        const years = now.getFullYear() - startDate.getFullYear();
+        const months = now.getMonth() - startDate.getMonth();
+        const days = now.getDate() - startDate.getDate();
+
+        let adjustedYears = years;
+        let adjustedMonths = months;
+        let adjustedDays = days;
+
+        if (adjustedDays < 0) {
+          adjustedMonths -= 1;
+          const previousMonth = new Date(now.getFullYear(), now.getMonth(), 0);
+          adjustedDays += previousMonth.getDate();
+        }
+
+        if (adjustedMonths < 0) {
+          adjustedYears -= 1;
+          adjustedMonths += 12;
+        }
+
+        return `Duration: ${adjustedYears} years, ${adjustedMonths} months`;
+      }
+
+      function updateCounter() {
+        counterElement.textContent = calculateElapsedTime();
+      }
+
+      // Update the counter every day (in case the page is left open)
+      setInterval(updateCounter, 24 * 60 * 60 * 1000); // Update every 24 hours
+      updateCounter(); // Initial update
+    })();
+  </script>
+
+  <style>
+    .custom-counter {
+      display: inline; /* Makes it inline with surrounding text */
+      text-align: left; /* Aligns text to the left */
+      font-size: 1rem;
+      font-weight: bold; /* Makes the font bold */
+      color: #333;
+  }
+    }
+  </style>
+</div>
+
+
+<script> initializeElapsedTimeCounter("AmazonCounter", new Date(2020, 0, 1));</script>
+
 * Jul 2024 - Current: Senior Applied Scientist 
   * Amazon Prime Video, Sunnyvale
 
