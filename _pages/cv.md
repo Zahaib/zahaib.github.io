@@ -43,6 +43,7 @@ Academic Service
 | CoNEXT 2025               | EMS 2024                     |
 | NSDI 2025                 | ICSE 2024 (external reviewer)|
 | WWW 2024                  | SIGCOMM Poster 2020          |
+| CoNEXT 2024               |                              |
 | CoNEXT 2022               |                              |
 
 
