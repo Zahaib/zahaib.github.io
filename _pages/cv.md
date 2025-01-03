@@ -52,7 +52,7 @@ Work experience
           adjustedMonths += 12;
         }
 
-        return `Duration: ${adjustedYears} years, ${adjustedMonths} months`;
+        return `Employment Duration: ${adjustedYears} years, ${adjustedMonths} months, and ${adjustedDays} days`;
       }
 
       function updateCounter() {
@@ -72,13 +72,9 @@ Work experience
       font-size: 1rem;
       font-weight: bold; /* Makes the font bold */
       color: #333;
-  }
     }
   </style>
 </div>
-
-
-<script> initializeElapsedTimeCounter("AmazonCounter", new Date(2020, 0, 1));</script>
 
 * Jul 2024 - Current: Senior Applied Scientist 
   * Amazon Prime Video, Sunnyvale
