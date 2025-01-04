@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Senior Applied Scientist at Amazon Prime Video where I’m part of the Playback Intelligence Team. My research interests are in Applied ML/AI and Optimization techniques for Internet Video Delivery including Adaptive Streaming, Content Delivery, Performance Anomaly Detection and Measurements. I received my PhD from USC where I was advised by [Ramesh Govindan](https://govindan.usc.edu/).
+I’m a Senior Applied Scientist at Amazon Prime Video where I’m part of the Playback Intelligence Team. I'm interested in leveraging Applied ML/AI and Optimization techniques for problems in Internet Video including Adaptive Streaming, Content Delivery and Observational/Operational Analytics. I received my PhD from USC where I was advised by [Ramesh Govindan](https://govindan.usc.edu/).
 
 I’m also an Adjunct Assistant Professor at the Computer Science Department at [NCSU](https://www.csc.ncsu.edu/) where I contribute to work on emergent Multimedia applications.
 
