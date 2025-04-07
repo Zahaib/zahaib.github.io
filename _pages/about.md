@@ -29,7 +29,7 @@ News
     <tbody>
       <tr>
         <td><span class="red-text">4/1/2024</span></td>
-        <td>My team at Prime Video will welcome four PhD student interns for summer 2024.</a></td>
+        <td>My team at Prime Video will welcome four PhD student interns for summer 2024.</td>
       </tr>
       <tr>
         <td><span class="red-text">3/30/2024</span></td>
