@@ -22,12 +22,15 @@ News
 | <span class="red-text">10/29/2024</span>    | I'll be serving on the ACM CoNEXT 2025 TPC.|
 | <span class="red-text">8/5/2024</span>      | Gave a talk at SIGCOMM 2024 non-paper Industry-Academia session on the backstory behind SODA paper and briefly advertised Prime Video's science programs.|
 | <span class="red-text">5/3/2024</span>      | SODA, an ABR algorithm backed by theoretic performance guarantees was accepted for SIGCOMM 2024.                         |
-| <span class="red-text">4/1/2024</span>      | My team at Prime Video will welcome four PhD student interns for summer 2024.                          |
 
 <details>
   <summary>Old News</summary>
   <table>
     <tbody>
+      <tr>
+        <td><span class="red-text">4/1/2024</span></td>
+        <td>My team at Prime Video will welcome four PhD student interns for summer 2024.</a></td>
+      </tr>
       <tr>
         <td><span class="red-text">3/30/2024</span></td>
         <td>I'll be serving on the <a href="https://www.usenix.org/conference/nsdi25">NSDI 2025 TPC.</a></td>
