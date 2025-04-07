@@ -17,6 +17,7 @@ News
 ======
 
 | --------------| ----------------------------------------------------------------- |
+| <span class="red-text">3/28/2025</span>    | Gave an invited talk at [RNP Brazil's CT-MON Forum](https://plataforma.rnp.br/ct-mon). I was hosted by [Antonio (Guto) Rocha](https://www2.ic.uff.br/~arocha/)|
 | <span class="red-text">11/26/2024</span>    | Gave an invited talk at Uni. of Toronto's [IEEE WIE](https://events.vtools.ieee.org/m/447345) Chapter on recent research work at Amazon Prime Video.|
 | <span class="red-text">10/29/2024</span>    | I'll be serving on the ACM CoNEXT 2025 TPC.|
 | <span class="red-text">8/5/2024</span>      | Gave a talk at SIGCOMM 2024 non-paper Industry-Academia session on the backstory behind SODA paper and briefly advertised Prime Video's science programs.|
