@@ -39,7 +39,7 @@ News
       </tr>
       <tr>
         <td><span class="red-text">3/28/2024</span></td>
-        <td>I'll be serving on the  <a href="https://conferences.sigcomm.org/sigcomm/2024/workshop/ems/">EMS Workshop TPC</a>, collocoated with SIGCOMM 2024.</td>
+        <td>I'll be serving on the  <a href="https://conferences.sigcomm.org/sigcomm/2024/workshop/ems/">EMS Workshop TPC</a>, collocated with SIGCOMM 2024.</td>
       </tr>
       <tr>
         <td><span class="red-text">10/28/2023</span></td>
