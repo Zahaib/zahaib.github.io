@@ -17,10 +17,10 @@ News
 ======
 
 | --------------| ----------------------------------------------------------------- |
-| <span class="red-text">10/24/2025</span>    | Invited talk at UC Irvine's Computer Science Department Seminar on recent work at Prime Video, I was hosted by [Sangeetha Abdu Jyothi](https://ics.uci.edu/~sabdujyo/) |
-| <span class="red-text">7/13/2025</span>    | AZEEM, an efficient treatment exploration technique to tune video performance at scale was accepted for NSDI 2026|
+| <span class="red-text">10/24/2025</span>    | Invited talk at UC Irvine's Computer Science Department Seminar on recent work at Prime Video, I was hosted by [Sangeetha Abdu Jyothi](https://ics.uci.edu/~sabdujyo/). |
+| <span class="red-text">7/13/2025</span>    | AZEEM, an efficient treatment exploration technique to tune video performance at scale was accepted for NSDI 2026.|
 | <span class="red-text">4/14/2025</span>    | Serving on the [NSDI 2026 TPC](https://www.usenix.org/conference/nsdi26).|
-| <span class="red-text">3/28/2025</span>    | Invited talk at [RNP Brazil's CT-MON Forum](https://plataforma.rnp.br/ct-mon). I was hosted by [Antonio (Guto) Rocha](https://www2.ic.uff.br/~arocha/)|
+| <span class="red-text">3/28/2025</span>    | Invited talk at [RNP Brazil's CT-MON Forum](https://plataforma.rnp.br/ct-mon). I was hosted by [Antonio (Guto) Rocha](https://www2.ic.uff.br/~arocha/).|
 | <span class="red-text">11/26/2024</span>    | Invited talk at Uni. of Toronto's [IEEE WIE](https://events.vtools.ieee.org/m/447345) Chapter on recent research work at Amazon Prime Video.|
 | <span class="red-text">10/29/2024</span>    | Serving on the ACM CoNEXT 2025 TPC.|
 | <span class="red-text">8/5/2024</span>      | Talk at SIGCOMM 2024 non-paper Industry-Academia session on the backstory behind SODA paper and briefly advertised Prime Video's science programs.|
