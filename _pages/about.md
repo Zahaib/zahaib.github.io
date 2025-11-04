@@ -24,12 +24,15 @@ News
 | <span class="red-text">11/26/2024</span>    | Invited talk at Uni. of Toronto's [IEEE WIE](https://events.vtools.ieee.org/m/447345) Chapter on recent research work at Amazon Prime Video.|
 | <span class="red-text">10/29/2024</span>    | Serving on the ACM CoNEXT 2025 TPC.|
 | <span class="red-text">8/5/2024</span>      | Talk at SIGCOMM 2024 non-paper Industry-Academia session on the backstory behind SODA paper and briefly advertised Prime Video's science programs.|
-| <span class="red-text">5/3/2024</span>      | SODA, an ABR algorithm backed by theoretic performance guarantees was accepted for SIGCOMM 2024.                         |
 
 <details>
   <summary>Old News</summary>
   <table>
     <tbody>
+      <tr>
+        <td><span class="red-text">5/3/2024</span></td>
+        <td><b>SODA</b> ABR Controller was accepted for SIGCOMM 2024.</td>
+      </tr>
       <tr>
         <td><span class="red-text">4/1/2024</span></td>
         <td>My team at Prime Video will welcome four PhD student interns for summer 2024.</td>
