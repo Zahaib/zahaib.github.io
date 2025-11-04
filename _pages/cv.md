@@ -35,6 +35,7 @@ Work experience
 
 <br>
 
+<!-- 
 Academic Service
 ======
 
@@ -58,7 +59,6 @@ Academic Service
 ---
 
 
-<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
