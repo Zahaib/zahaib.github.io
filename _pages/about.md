@@ -17,6 +17,7 @@ News
 ======
 
 | --------------| ----------------------------------------------------------------- |
+| <span class="red-text">11/11/2025</span>    | Issued [US Patent No. 12470771](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12470771) on a hybrid ABR controller deployed at scale at Prime Video. |
 | <span class="red-text">10/24/2025</span>    | Invited talk at UC Irvine's Computer Science Department Seminar, I was hosted by [Sangeetha Abdu Jyothi](https://ics.uci.edu/~sabdujyo/). |
 | <span class="red-text">7/13/2025</span>    | <b>AZEEM</b>, an efficient exploration-exploitation technique to tune video performance at scale was accepted for NSDI 2026.|
 | <span class="red-text">4/14/2025</span>    | Serving on the [NSDI 2026 TPC](https://www.usenix.org/conference/nsdi26).|
