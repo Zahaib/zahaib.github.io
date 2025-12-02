@@ -17,7 +17,7 @@ News
 ======
 
 | --------------| ----------------------------------------------------------------- |
-| <span class="red-text">11/11/2025</span>    | Invited talk at UC Riverside's ECE Seminar, I was hosted by [Hang Qiu](https://hangqiu.github.io/). |
+| <span class="red-text">12/01/2025</span>    | Invited talk at UC Riverside's ECE Seminar, I was hosted by [Hang Qiu](https://hangqiu.github.io/). |
 | <span class="red-text">11/11/2025</span>    | Issued [US Patent No. 12470771](https://patentsgazette.uspto.gov/week45/OG/html/1540-2/US12470771-20251111.html) on a hybrid ABR controller. |
 | <span class="red-text">10/24/2025</span>    | Invited talk at UC Irvine's Computer Science Department Seminar, I was hosted by [Sangeetha Abdu Jyothi](https://ics.uci.edu/~sabdujyo/). |
 | <span class="red-text">7/13/2025</span>    | <b>AZEEM</b>, an efficient exploration-exploitation technique to tune video performance at scale was accepted for NSDI 2026.|
