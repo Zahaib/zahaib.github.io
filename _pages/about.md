@@ -30,7 +30,7 @@ News
     <tbody>
       <tr>
         <td><span class="red-text">11/26/2024</span></td>
-        <td>Invited talk at Uni. of Toronto's [IEEE WIE](https://events.vtools.ieee.org/m/447345) Chapter on recent research work at Amazon Prime Video.</td>
+        <td>Invited talk at Uni. of Toronto's <a href="https://events.vtools.ieee.org/m/447345">IEEE WIE</a> Chapter on recent research work at Amazon Prime Video.</td>
       </tr>
       <tr>
         <td><span class="red-text">10/29/2024</span></td>
