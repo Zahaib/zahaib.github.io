@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 paperurl: https://zahaib.github.io/files/video-management-plane.pdf
 date: 2018-10-01
-venue: ACM IMC '18
+venue: ACM IMC
 excerpt: " "
 citation: <strong>Zahaib Akhtar*</strong>, Yun Seong Nam*, Jessica Chen, Ramesh Govindan, Ethan Katz-Bassett, Sanjay Rao, Jibin Zhan, Hui Zhang. 
 ---

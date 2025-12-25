@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 paperurl: https://zahaib.github.io/files/coal-not-diamonds.pdf
 date: 2022-12-01
-venue: ACM CoNEXT '22
+venue: ACM CoNEXT
 excerpt: " "
 citation: Talha Waheed, Zahaib Akhtar, Ihsan Ayyub Qazi, Zafar Ayyub Qazi. 
 ---
