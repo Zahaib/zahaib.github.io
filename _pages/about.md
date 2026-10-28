@@ -17,12 +17,12 @@ News
 ======
 
 | --------------| ----------------------------------------------------------------- |
-| <span class="red-text">7/23/2026</span>    | Choir accepted for NSDI 2027. |
+| <span class="red-text">7/23/2026</span>    | Choir accepted for NSDI 2027.|
+| <span class="red-text">3/18/2026</span>    | Serving on the [NSDI 2027 TPC](https://www.usenix.org/conference/nsdi27).|
 | <span class="red-text">12/01/2025</span>    | Invited talk at UC Riverside's ECE Seminar, I was hosted by [Hang Qiu](https://hangqiu.github.io/). |
 | <span class="red-text">11/11/2025</span>    | Issued [US Patent No. 12470771](https://patentsgazette.uspto.gov/week45/OG/html/1540-2/US12470771-20251111.html) on a hybrid ABR controller. |
 | <span class="red-text">10/24/2025</span>    | Invited talk at UC Irvine's Computer Science Department Seminar, I was hosted by [Sangeetha Abdu Jyothi](https://ics.uci.edu/~sabdujyo/). |
 | <span class="red-text">7/13/2025</span>    | <b>AZEEM</b>, an efficient exploration-exploitation technique to tune video performance at scale was accepted for NSDI 2026.|
-| <span class="red-text">4/14/2025</span>    | Serving on the [NSDI 2026 TPC](https://www.usenix.org/conference/nsdi26).|
 
 <details>
   <summary>Old News</summary>
@@ -30,7 +30,11 @@ News
     <tbody>
       <tr>
         <td><span class="red-text">3/28/2025</span></td>
-        <td>Invited talk at  <a href="https://plataforma.rnp.br/ct-mon">RNP Brazil's CT-MON Forum</a>. I was hosted by <a href="https://www2.ic.uff.br/~arocha/">Antonio (Guto) Rocha </a>>.</td>
+        <td>Serving on <a href="https://www.usenix.org/conference/nsdi26">NSDI 2026</a> TPC.</td>
+      </tr>
+      <tr>
+        <td><span class="red-text">3/28/2025</span></td>
+        <td>Invited talk at <a href="https://plataforma.rnp.br/ct-mon">RNP Brazil's CT-MON Forum</a>. I was hosted by <a href="https://www2.ic.uff.br/~arocha/">Antonio (Guto) Rocha</a>.</td>
       </tr>
       <tr>
         <td><span class="red-text">11/26/2024</span></td>
