@@ -17,7 +17,7 @@ News
 ======
 
 | --------------| ----------------------------------------------------------------- |
-| <span class="red-text">7/23/2026</span>    | Choir accepted for NSDI 2027.|
+| <span class="red-text">7/23/2026</span>    | <b>Choir</b> accepted for NSDI 2027.|
 | <span class="red-text">3/18/2026</span>    | Serving on the [NSDI 2027 TPC](https://www.usenix.org/conference/nsdi27).|
 | <span class="red-text">12/01/2025</span>    | Invited talk at UC Riverside's ECE Seminar, I was hosted by [Hang Qiu](https://hangqiu.github.io/). |
 | <span class="red-text">11/11/2025</span>    | Issued [US Patent No. 12470771](https://patentsgazette.uspto.gov/week45/OG/html/1540-2/US12470771-20251111.html) on a hybrid ABR controller. |
