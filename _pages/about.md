@@ -17,6 +17,7 @@ News
 ======
 
 | --------------| ----------------------------------------------------------------- |
+| <span class="red-text">10/29/2026</span>    | Delivered a guest lecture on video streaming in [Justine Sherry's CS 441/641 at CMU](https://www.myheartisinthenetwork.com/).|
 | <span class="red-text">7/23/2026</span>    | <b>Choir</b> accepted for NSDI 2027.|
 | <span class="red-text">3/18/2026</span>    | Serving on the [NSDI 2027 TPC](https://www.usenix.org/conference/nsdi27).|
 | <span class="red-text">12/01/2025</span>    | Invited talk at UC Riverside's ECE Seminar, I was hosted by [Hang Qiu](https://hangqiu.github.io/). |
